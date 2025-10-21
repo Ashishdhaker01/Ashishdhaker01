@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashishdhaker01
 - 👀 I’m interested in ... TECH COMPANY AND CODING 
-- 🌱 I’m currently learning ... HTML 
-- 💞️ I’m looking to collaborate on ... FOR TECH COMPANY 
+- 🌱 I’m currently learning ... HTML | CSS | JS | JAVA | IOT 
+- 💞️ RIGHT NOW IM LOOKING FOR A INTERSHIP NOTHING ELSEE
 - 📫 How to reach me ... ashishdhaker172@gmail.com 
 
 <!---
